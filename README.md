@@ -23,8 +23,8 @@ _This webpage includes a form to obtain an input of a year. jQuery is used to ob
 
 ## Setup/Installation Requirements
 
-* _First, clone this repository by entering, in the terminal, the prompt "git clone" followed by the URL to this repository.
-* _Use Terminal to navigate to the correct directory (using the prompt "cd {repository-name}").
+* _First, clone this repository by entering, in the terminal, the prompt "git clone" followed by the URL to this repository._
+* _Use Terminal to navigate to the correct directory (using the prompt "cd {repository-name}")._
 * _Open in Visual Studio Code using the terminal prompt "code ."_
 * _Open index.html in a browser of your choice._
 
