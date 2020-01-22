@@ -1,5 +1,7 @@
 // Back-end (business) logic:
-
+var leapYear = function(year) {
+  return false;
+}
 
 // Front-end logic:
 $(document).ready(function(){
